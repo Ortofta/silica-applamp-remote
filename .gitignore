@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+
+build-harbour-applamp-remote-MerSDK_SailfishOS_i486-Debug/*
+
